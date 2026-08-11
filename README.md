@@ -9,11 +9,11 @@ Desarrollador de software y CTO de AlkiSYS, que llevo adelante junto a Soy-Red. 
 | Proyecto | Qué hace | Mi rol | Stack |
 | --- | --- | --- | --- |
 | **AlkiSYS** | Proyecto principal, en desarrollo activo | CTO y colaborador junto a Soy-Red | Python |
-| **PostWik** | En desarrollo, subíendose ahora | Colaborador junto a Soy-Red | JavaScript |
+| **PostWik** | En desarrollo, en proceso de subida | Colaborador junto a Soy-Red | JavaScript |
 | **VialSYS** | Consulta de infracciones por patente y verificación de cinemómetros | Autor | Python |
 | **IaCar** | Inyección electrónica desde el celular | Autor | Dart / Flutter |
 | **Crónicas de los Cuatro Reinos** | Juego de estrategia asimétrica de fantasía, hecho como hobbie | Autor | Flutter |
 
-| **PostWik** | En desarrollo, subiéndose ahora | Colaborador junto a Soy-Red | JavaScript |
+## :mailbox: Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinn-benitez/)
