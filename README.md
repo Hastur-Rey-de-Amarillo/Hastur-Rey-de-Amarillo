@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hola, soy Joaquín Benítez
 
-<!--
-**Cuento-de-Risas/Cuento-de-Risas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software. Me muevo principalmente entre Python, Dart/Flutter y desarrollo web.
+Actualmente estoy dedicado de lleno al proyecto AlkiSYS.
 
-Here are some ideas to get you started:
+## Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python | Dart | Flutter | WordPress | PHP | Git
+
+## En qué estoy trabajando
+
+AlkiSYS: proyecto principal, en desarrollo activo.
+DataBase-Car: inyección electrónica desde el celular (Dart).
+Multas: automatización en Python.
+
+## Contacto
+
+Escribime por acá en GitHub.
