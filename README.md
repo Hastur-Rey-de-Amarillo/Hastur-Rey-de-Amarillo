@@ -17,3 +17,4 @@ Desarrollador de software y CTO de AlkiSYS, que llevo adelante junto a Soy-Red. 
 ## :mailbox: Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinn-benitez/)
+ [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Joaquin.benitez91@outlook.com)
