@@ -1,4 +1,8 @@
-# :wave: Hola, soy Joaquín Benítez
+<p align="center">
+  <img src="hastur-portada.gif" alt="Hastur, Rey de Amarillo" width="480">
+</p>
+
+# :wave: Hola, soy Hastur
 
 Desarrollador de software y CTO de [WorKraken](https://github.com/Workraken), donde construimos herramientas de gestión, comunicación y presencia digital para pequeños negocios. También desarrollo soluciones para problemas concretos, desde la consulta de infracciones de tránsito hasta el diagnóstico de inyección electrónica desde el celular. En mi tiempo libre trabajo en un juego de estrategia en Flutter.
 
