@@ -13,7 +13,7 @@
 
 <p align="center">
   <img src="assets/hello-it.svg" alt="Ciao, sono" width="98" height="26" /><br />
-  <img src="assets/hastur-derretido.png" alt="Hastur" width="460" />
+  <img src="assets/hastur-derritiendose-animado.gif" alt="Hastur" width="460" />
 </p>
 
 <p>
