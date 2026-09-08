@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/hola-soy-blanco.svg" alt="Hola, soy" width="220" height="30" /><br />
+  Hola, soy<br />
   <img src="assets/hastur-derretido.png" alt="Hastur" width="460" />
 </p>
 
@@ -17,32 +17,26 @@ En mi tiempo libre trabajo en un juego de estrategia en Flutter y paseo por Carc
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<h3><img src="assets/emoji-cohete.png" alt="Cohete amarillo" width="18" height="18" align="absmiddle" /> Proyectos</h3>
+
 <p>
-  <img src="assets/seccion-proyectos-dorado.svg" alt="Proyectos" width="960" />
+  <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
 </p>
 
 <p>
-  <img src="assets/proyectos-dorado-hastur.svg" alt="Tabla de proyectos: WorKraken, PostWik, VialSYS, IaCar y Crónicas de los Cuatro Reinos. Versión en texto y enlaces debajo." width="960" />
+  <img src="assets/proyectos-dorado-hastur.svg" alt="Tabla de proyectos: WorKraken, PostWik, VialSYS, IaCar y Crónicas de los Cuatro Reinos." width="960" />
 </p>
 
-<details>
-<summary>Ver proyectos y enlaces en texto</summary>
-
-| Proyecto | Qué hace | Mi rol | Stack |
-| --- | --- | --- | --- |
-| **[WorKraken](https://github.com/Workraken)** | Gestión, comunicación y presencia digital para pequeños negocios | CTO | Web / móvil |
-| **PostWik** | En desarrollo, en proceso de subida | Colaborador junto a Soy-Red | JavaScript |
-| **VialSYS** | Consulta de infracciones por patente y verificación de cinemómetros | Autor | Python |
-| **IaCar** | Inyección electrónica desde el celular | Autor | Dart / Flutter |
-| **Crónicas de los Cuatro Reinos** | Juego de estrategia asimétrica de fantasía, hecho como hobbie | Autor | Flutter |
-
-</details>
+<h3><img src="assets/emoji-buzon.png" alt="Buzón amarillo" width="18" height="15" align="absmiddle" /> Contacto</h3>
 
 <p>
-  <img src="assets/seccion-contacto-dorado.svg" alt="Contacto" width="960" />
+  <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinn-benitez/) [![Outlook](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Joaquin.benitez91@outlook.com)
+<p>
+  <a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn de Joaquín Benítez"><img src="assets/social/linkedin.svg" alt="LinkedIn" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="mailto:Joaquin.benitez91@outlook.com" title="Enviar un email a Joaquín Benítez"><img src="assets/social/email.svg" alt="Email" width="48" height="48" /></a>
+</p>
 
 <p>
   <img src="assets/separador-dorado-hastur.svg" alt="" width="960" />
