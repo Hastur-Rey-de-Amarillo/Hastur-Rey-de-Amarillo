@@ -42,6 +42,18 @@
   <img src="assets/proyectos-stack-verificado.svg" alt="Proyectos y stack: WorKraken: Python · Jinja2 · Uvicorn; JavaScript · HTML/CSS; Dart · Flutter; Firebase / Firestore. PostWik: Python · JavaScript; HTML/CSS · SQLite. VialSYS: Python · JavaScript; HTML/CSS; Next.js · React. IaCar: Dart · Flutter; Kotlin; C++ (referencia). Crónicas de los Cuatro Reinos: Dart · Flutter." width="960" />
 </p>
 
+<!-- WEBSITE:START -->
+<h3 align="center"><a name="website"></a><img src="assets/website-es.png" alt="Página web" width="145" height="38" align="absmiddle" /></h3>
+
+<p>
+  <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
+</p>
+
+<p align="center">
+  <a href="https://workraken.com" title="Visitar el sitio web de WorKraken"><img src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/WorKraken-logo.png" width="360" alt="Visitar el sitio web de WorKraken" /></a>
+</p>
+<!-- WEBSITE:END -->
+
 <h3 align="center"><a name="contacto"></a><img src="assets/contacto-espaciado.png" alt="Contacto" width="124" height="38" align="absmiddle" />&nbsp; <img src="assets/emoji-buzon.png" alt="Buzón amarillo" width="27" height="22" align="absmiddle" /></h3>
 
 <p>

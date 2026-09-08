@@ -42,6 +42,18 @@
   <img src="assets/projects-stack-fr.svg" alt="Projets: WorKraken · Gestion, communication et présence numérique pour les petites entreprises · CTO · Python · Jinja2 · Uvicorn; JavaScript · HTML/CSS; Dart · Flutter; Firebase / Firestore. PostWik · En développement, publication en préparation · Contributeur avec Soy-Red · Python · JavaScript; HTML/CSS · SQLite. VialSYS · Consultation des infractions par plaque d’immatriculation et vérification des radars · Créateur · Python · JavaScript; HTML/CSS; Next.js · React. IaCar · Diagnostic de l’injection électronique depuis un téléphone · Créateur · Dart · Flutter; Kotlin; C++ (référence). Crónicas de los Cuatro Reinos · Jeu de stratégie fantasy asymétrique, développé comme loisir · Créateur · Dart · Flutter." width="960" />
 </p>
 
+<!-- WEBSITE:START -->
+<h3 align="center"><a name="website"></a><img src="assets/website-fr.png" alt="Site web" width="117" height="38" align="absmiddle" /></h3>
+
+<p>
+  <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
+</p>
+
+<p align="center">
+  <a href="https://workraken.com" title="Visiter le site web de WorKraken"><img src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/WorKraken-logo.png" width="360" alt="Visiter le site web de WorKraken" /></a>
+</p>
+<!-- WEBSITE:END -->
+
 <h3 align="center"><a name="contact"></a><img src="assets/contact-fr.png" alt="Contact" width="109" height="38" align="absmiddle" />&nbsp; <img src="assets/emoji-buzon.png" alt="Boîte aux lettres jaune" width="27" height="22" align="absmiddle" /></h3>
 
 <p>
