@@ -21,7 +21,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3><img src="assets/cohete-amarillo-adjunto.png" alt="Cohete amarillo" width="27" height="27" align="absmiddle" /> Proyectos</h3>
+<h3 id="-proyectos"><img src="assets/cohete-amarillo-adjunto.png" alt="Cohete amarillo" width="27" height="27" align="absmiddle" /> <img src="assets/proyectos-hastur.png" alt="Proyectos" width="113" height="38" align="absmiddle" /></h3>
 
 <p>
   <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
@@ -31,7 +31,7 @@
   <img src="assets/proyectos-stack-verificado.svg" alt="Proyectos y stack: WorKraken: Python · Jinja2 · Uvicorn; JavaScript · HTML/CSS; Dart · Flutter; Firebase / Firestore. PostWik: Python · JavaScript; HTML/CSS · SQLite. VialSYS: Python · JavaScript; HTML/CSS; Next.js · React. IaCar: Dart · Flutter; Kotlin; C++ (referencia). Crónicas de los Cuatro Reinos: Dart · Flutter." width="960" />
 </p>
 
-<h3><img src="assets/emoji-buzon.png" alt="Buzón amarillo" width="27" height="22" align="absmiddle" /> Contacto</h3>
+<h3 id="-contacto"><img src="assets/emoji-buzon.png" alt="Buzón amarillo" width="27" height="22" align="absmiddle" /> <img src="assets/contacto-hastur.png" alt="Contacto" width="107" height="38" align="absmiddle" /></h3>
 
 <p>
   <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
