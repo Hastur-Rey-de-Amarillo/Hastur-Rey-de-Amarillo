@@ -13,11 +13,7 @@
 
 <p align="center">
   <img src="assets/hello-de.svg" alt="Hallo, ich bin" width="117" height="26" /><br />
-  <img src="assets/hastur-derritiendose-animado.gif" alt="Hastur" width="460" />
-</p>
-
-<p>
-  <img src="assets/separador-dorado-hastur.svg" alt="" width="960" />
+  <img src="assets/hastur-animado-linea-cercana.gif" alt="Hastur" width="846" />
 </p>
 
 <p>
