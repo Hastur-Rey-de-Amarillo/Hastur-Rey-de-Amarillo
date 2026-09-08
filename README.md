@@ -1,9 +1,14 @@
 <p align="center">
-  <img src="assets/tentaculo-amarillo.gif" alt="Portada animada: tentáculo amarillo" width="960" />
+  <img src="assets/tentaculo-portada-transparente.gif" alt="Portada animada: tentáculo amarillo sin fondo" width="960" />
 </p>
 
 <p align="center">
-  <img src="assets/hastur-desgarrado.svg" alt="Hola, soy Hastur" width="960" />
+  <sub>HOLA, SOY</sub><br />
+  <img src="assets/hastur-derretido.png" alt="Hastur" width="460" />
+</p>
+
+<p>
+  <img src="assets/linea-amarilla.svg" alt="" width="960" />
 </p>
 
 Desarrollador de software y CTO de [WorKraken](https://github.com/Workraken), donde construimos herramientas de gestión, comunicación y presencia digital para pequeños negocios. También desarrollo soluciones para problemas concretos, desde la consulta de infracciones de tránsito hasta el diagnóstico de inyección electrónica desde el celular.
