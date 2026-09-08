@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Rey-de-Amarillo" title="Español"><img src="assets/flags/es-inactive.svg" alt="Español" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo" title="Español"><img src="assets/flags/es-spain-inactive.svg" alt="Español" width="48" height="48" /></a>
   <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.en.md" title="English"><img src="assets/flags/en-inactive.svg" alt="English" width="48" height="48" /></a>
   <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.it.md" title="Italiano"><img src="assets/flags/it-inactive.svg" alt="Italiano" width="48" height="48" /></a>
   <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.de.md" title="Deutsch"><img src="assets/flags/de-active.svg" alt="Deutsch" width="48" height="48" /></a>
