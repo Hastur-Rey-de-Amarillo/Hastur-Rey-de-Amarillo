@@ -24,7 +24,7 @@ En mi tiempo libre trabajo en un juego de estrategia en Flutter y paseo por Carc
 </p>
 
 <p>
-  <img src="assets/proyectos-dorado-hastur.svg" alt="Tabla de proyectos: WorKraken, PostWik, VialSYS, IaCar y Crónicas de los Cuatro Reinos." width="960" />
+  <img src="assets/proyectos-stack-verificado.svg" alt="Proyectos y stack: WorKraken: Python · Jinja2 · Uvicorn; JavaScript · HTML/CSS; Dart · Flutter; Firebase / Firestore. PostWik: Python · JavaScript; HTML/CSS · SQLite. VialSYS: Python · JavaScript; HTML/CSS; Next.js · React. IaCar: Dart · Flutter; Kotlin; C++ (referencia). Crónicas de los Cuatro Reinos: Dart · Flutter." width="960" />
 </p>
 
 <h3><img src="assets/emoji-buzon.png" alt="Buzón amarillo" width="18" height="15" align="absmiddle" /> Contacto</h3>
