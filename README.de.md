@@ -1,0 +1,56 @@
+<p align="center">
+  <a href="https://github.com/Rey-de-Amarillo" title="Español"><img src="assets/flags/es-inactive.svg" alt="Español" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.en.md" title="English"><img src="assets/flags/en-inactive.svg" alt="English" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.it.md" title="Italiano"><img src="assets/flags/it-inactive.svg" alt="Italiano" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.de.md" title="Deutsch"><img src="assets/flags/de-active.svg" alt="Deutsch" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.fr.md" title="Français"><img src="assets/flags/fr-inactive.svg" alt="Français" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.pt.md" title="Português"><img src="assets/flags/pt-inactive.svg" alt="Português" width="48" height="48" /></a>
+</p>
+
+<p align="center">
+  <img src="assets/tentaculo-portada-transparente.gif" alt="Animiertes Titelbild: gelber Tentakel mit transparentem Hintergrund" width="960" />
+</p>
+
+<p align="center">
+  <img src="assets/hello-de.svg" alt="Hallo, ich bin" width="117" height="26" /><br />
+  <img src="assets/hastur-derretido.png" alt="Hastur" width="460" />
+</p>
+
+<p>
+  <img src="assets/separador-dorado-hastur.svg" alt="" width="960" />
+</p>
+
+<p>
+  <a href="https://github.com/Workraken"><img src="assets/introduction-de.svg" alt="Softwareentwickler und CTO bei WorKraken. Dort entwickeln wir Werkzeuge für Verwaltung, Kommunikation und die digitale Präsenz kleiner Unternehmen. Außerdem entwickle ich Lösungen für konkrete Probleme: von der Abfrage von Verkehrsverstößen bis zur Diagnose elektronischer Einspritzsysteme per Smartphone." width="840" height="104" /></a>
+</p>
+
+<p>
+  <img src="assets/carcosa-de.svg" alt="In meiner Freizeit entwickle ich ein Strategiespiel mit Flutter und spaziere durch Carcosa." width="709" height="26" align="absmiddle" /> <img src="assets/emoji-tentaculo-estatico.png" alt="Gelber Tentakel" width="20" height="20" align="absmiddle" />
+</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<h3 align="center"><a name="projects"></a><img src="assets/projects-de.png" alt="Projekte" width="124" height="38" align="absmiddle" />&nbsp; <img src="assets/cohete-amarillo-adjunto.png" alt="Gelbe Rakete" width="27" height="27" align="absmiddle" /></h3>
+
+<p>
+  <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
+</p>
+
+<p>
+  <img src="assets/projects-stack-de.svg" alt="Projekte: WorKraken · Verwaltung, Kommunikation und digitale Präsenz für kleine Unternehmen · CTO · Python · Jinja2 · Uvicorn; JavaScript · HTML/CSS; Dart · Flutter; Firebase / Firestore. PostWik · In Entwicklung, Veröffentlichung in Vorbereitung · Mitwirkender mit Soy-Red · Python · JavaScript; HTML/CSS · SQLite. VialSYS · Abfrage von Verkehrsverstößen per Kennzeichen und Prüfung von Geschwindigkeitsmessgeräten · Entwickler · Python · JavaScript; HTML/CSS; Next.js · React. IaCar · Diagnose elektronischer Einspritzsysteme per Smartphone · Entwickler · Dart · Flutter; Kotlin; C++ (Referenz). Crónicas de los Cuatro Reinos · Asymmetrisches Fantasy-Strategiespiel, als Hobby entwickelt · Entwickler · Dart · Flutter." width="960" />
+</p>
+
+<h3 align="center"><a name="contact"></a><img src="assets/contact-de.png" alt="Kontakt" width="117" height="38" align="absmiddle" />&nbsp; <img src="assets/emoji-buzon.png" alt="Gelber Briefkasten" width="27" height="22" align="absmiddle" /></h3>
+
+<p>
+  <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn · Joaquín Benítez"><img src="assets/social/linkedin-dorado.svg" alt="LinkedIn" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="mailto:Joaquin.benitez91@outlook.com" title="Email · Joaquín Benítez"><img src="assets/social/email-dorado.svg" alt="Email" width="48" height="48" /></a>
+</p>
+
+<p>
+  <img src="assets/separador-dorado-hastur.svg" alt="" width="960" />
+</p>

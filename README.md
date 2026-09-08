@@ -1,6 +1,10 @@
 <p align="center">
-  <a href="https://github.com/Rey-de-Amarillo"><img src="assets/language-es-active.svg" alt="Español" width="104" height="32" /></a>
-  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.en.md"><img src="assets/language-en-inactive.svg" alt="English" width="104" height="32" /></a>
+  <a href="https://github.com/Rey-de-Amarillo" title="Español"><img src="assets/flags/es-active.svg" alt="Español" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.en.md" title="English"><img src="assets/flags/en-inactive.svg" alt="English" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.it.md" title="Italiano"><img src="assets/flags/it-inactive.svg" alt="Italiano" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.de.md" title="Deutsch"><img src="assets/flags/de-inactive.svg" alt="Deutsch" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.fr.md" title="Français"><img src="assets/flags/fr-inactive.svg" alt="Français" width="48" height="48" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.pt.md" title="Português"><img src="assets/flags/pt-inactive.svg" alt="Português" width="48" height="48" /></a>
 </p>
 
 <p align="center">
