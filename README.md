@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Hastur-Rey-de-Amarillo"><img src="assets/language-es-active.svg" alt="Español" width="104" height="32" /></a>
-  <a href="https://github.com/Hastur-Rey-de-Amarillo/Hastur-Rey-de-Amarillo/blob/main/README.en.md"><img src="assets/language-en-inactive.svg" alt="English" width="104" height="32" /></a>
+  <a href="https://github.com/Rey-de-Amarillo"><img src="assets/language-es-active.svg" alt="Español" width="104" height="32" /></a>
+  <a href="https://github.com/Rey-de-Amarillo/Rey-de-Amarillo/blob/main/README.en.md"><img src="assets/language-en-inactive.svg" alt="English" width="104" height="32" /></a>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
   <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
 </p>
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn de Joaquín Benítez"><img src="assets/social/linkedin-dorado.svg" alt="LinkedIn" width="48" height="48" /></a>&nbsp;&nbsp;
   <a href="mailto:Joaquin.benitez91@outlook.com" title="Enviar un email a Joaquín Benítez"><img src="assets/social/email-dorado.svg" alt="Email" width="48" height="48" /></a>
 </p>
