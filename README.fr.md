@@ -8,12 +8,18 @@
 </p>
 
 <p align="center">
-  <img src="assets/tentaculo-portada-transparente.gif" alt="Bannière animée : tentacule jaune sur fond transparent" width="960" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/tentaculo-portada-sin-movimiento.png" />
+    <img src="assets/tentaculo-portada-transparente.gif" alt="Bannière animée : tentacule jaune sur fond transparent" width="960" />
+  </picture>
 </p>
 
 <p align="center">
   <img src="assets/hello-fr.svg" alt="Salut, moi c’est" width="133" height="26" /><br />
-  <img src="assets/hastur-animado-linea-cercana.gif" alt="Hastur" width="846" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hastur-linea-sin-movimiento.png" />
+    <img src="assets/hastur-animado-linea-cercana.gif" alt="Hastur" width="846" />
+  </picture>
 </p>
 
 <p>
