@@ -35,25 +35,25 @@
 </p>
 
 <p align="center">
-  <picture><img src="assets/technologies/python.svg" alt="Python" title="Python" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/dart.svg" alt="Dart" title="Dart" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/flutter.svg" alt="Flutter" title="Flutter" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/javascript.svg" alt="JavaScript" title="JavaScript" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/html5.svg" alt="HTML5" title="HTML5" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/css.svg" alt="CSS" title="CSS" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/php.svg" alt="PHP" title="PHP" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/git.svg" alt="Git" title="Git" width="48" /></picture>
+  <picture><img src="assets/technologies/white/python.svg" alt="Python" title="Python" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/dart.svg" alt="Dart" title="Dart" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/flutter.svg" alt="Flutter" title="Flutter" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/javascript.svg" alt="JavaScript" title="JavaScript" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/html5.svg" alt="HTML5" title="HTML5" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/css.svg" alt="CSS" title="CSS" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/php.svg" alt="PHP" title="PHP" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/git.svg" alt="Git" title="Git" width="48" /></picture>
 </p>
 
 <p align="center">
-  <picture><img src="assets/technologies/react.svg" alt="React" title="React" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/nextdotjs.svg" alt="Next.js" title="Next.js" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/firebase.svg" alt="Firebase / Firestore" title="Firebase / Firestore" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/sqlite.svg" alt="SQLite" title="SQLite" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/kotlin.svg" alt="Kotlin" title="Kotlin" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/jinja.svg" alt="Jinja2" title="Jinja2" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/uvicorn.svg" alt="Uvicorn" title="Uvicorn" width="48" /></picture>&nbsp;
-  <picture><img src="assets/technologies/cplusplus.svg" alt="C++ (referência)" title="C++ (referência)" width="48" /></picture>
+  <picture><img src="assets/technologies/white/react.svg" alt="React" title="React" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/nextdotjs.svg" alt="Next.js" title="Next.js" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/firebase.svg" alt="Firebase / Firestore" title="Firebase / Firestore" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/sqlite.svg" alt="SQLite" title="SQLite" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/kotlin.svg" alt="Kotlin" title="Kotlin" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/jinja.svg" alt="Jinja2" title="Jinja2" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/uvicorn.svg" alt="Uvicorn" title="Uvicorn" width="48" /></picture>&nbsp;
+  <picture><img src="assets/technologies/white/cplusplus.svg" alt="C++ (referência)" title="C++ (referência)" width="48" /></picture>
 </p>
 
 <h3 align="center"><a name="projects"></a><picture><img src="assets/projects-pt.png" alt="Projetos" width="123" align="absmiddle" /></picture></h3>
@@ -62,48 +62,16 @@
   <picture><img src="assets/linea-dorada.svg" alt="" width="960" /></picture>
 </p>
 
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th align="center" width="21%"><picture><img src="assets/table-headers/pt-0.svg" alt="Projeto" width="85" /></picture></th>
-      <th align="center" width="27%"><picture><img src="assets/table-headers/pt-1.svg" alt="O que faz" width="108" /></picture></th>
-      <th align="center" width="16%"><picture><img src="assets/table-headers/pt-2.svg" alt="Meu papel" width="139" /></picture></th>
-      <th align="center" width="36%"><picture><img src="assets/table-headers/pt-3.svg" alt="Stack" width="68" /></picture></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" width="21%"><strong><a href="https://github.com/Workraken">WorKraken</a></strong></td>
-      <td align="center" width="27%">Gestão, comunicação e presença<br />digital para pequenos negócios</td>
-      <td align="center" width="16%">CTO</td>
-      <td align="center" width="36%">Python&nbsp;·&nbsp;Jinja2&nbsp;·&nbsp;Uvicorn<br />JavaScript&nbsp;·&nbsp;HTML/CSS<br />Dart&nbsp;·&nbsp;Flutter<br />Firebase&nbsp;/&nbsp;Firestore</td>
-    </tr>
-    <tr>
-      <td align="center" width="21%"><strong>PostWik</strong></td>
-      <td align="center" width="27%">Em desenvolvimento, em<br />preparação para publicação</td>
-      <td align="center" width="16%">Colaborador com Soy-Red</td>
-      <td align="center" width="36%">Python&nbsp;·&nbsp;JavaScript<br />HTML/CSS&nbsp;·&nbsp;SQLite</td>
-    </tr>
-    <tr>
-      <td align="center" width="21%"><strong>VialSYS</strong></td>
-      <td align="center" width="27%">Consulta de infrações por<br />matrícula e verificação de<br />radares</td>
-      <td align="center" width="16%">Autor</td>
-      <td align="center" width="36%">Python&nbsp;·&nbsp;JavaScript<br />HTML/CSS<br />Next.js&nbsp;·&nbsp;React</td>
-    </tr>
-    <tr>
-      <td align="center" width="21%"><strong>IaCar</strong></td>
-      <td align="center" width="27%">Diagnóstico da injeção<br />eletrónica a partir do<br />telemóvel</td>
-      <td align="center" width="16%">Autor</td>
-      <td align="center" width="36%">Dart&nbsp;·&nbsp;Flutter<br />Kotlin<br />C++&nbsp;(referência)</td>
-    </tr>
-    <tr>
-      <td align="center" width="21%"><strong>Crónicas de los Cuatro Reinos</strong></td>
-      <td align="center" width="27%">Jogo de estratégia assimétrica<br />de fantasia, desenvolvido como<br />hobby</td>
-      <td align="center" width="16%">Autor</td>
-      <td align="center" width="36%">Dart&nbsp;·&nbsp;Flutter</td>
-    </tr>
-  </tbody>
-</table>
+<!-- GOLD-GRID:START -->
+<p align="center">
+<picture><img src="assets/project-grid-gold/cell-337a089cf9d5.svg" alt="Projeto" width="20%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-74b8500e6388.svg" alt="O que faz" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-fc8d26a97cea.svg" alt="Meu papel" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-79342e86a0fd.svg" alt="Stack" width="27%" align="top" /></picture><br />
+<a href="https://github.com/Workraken" title="WorKraken"><img src="assets/project-grid-gold/cell-ac551fca1502.svg" alt="Projeto: WorKraken" width="20%" align="top" /></a><picture><img src="assets/project-grid-gold/cell-9e0cc5f3343d.svg" alt="O que faz: Gestão, comunicação e presença digital para pequenos negócios" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-de5119024047.svg" alt="Meu papel: CTO" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-34942c419b72.svg" alt="Stack: Python · Jinja2 · Uvicorn JavaScript · HTML/CSS Dart · Flutter Firebase / Firestore" width="27%" align="top" /></picture><br />
+<picture><img src="assets/project-grid-gold/cell-09724526b4b8.svg" alt="Projeto: PostWik" width="20%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-f83f0b6f421c.svg" alt="O que faz: Em desenvolvimento, em preparação para publicação" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-64c47cfc3e06.svg" alt="Meu papel: Colaborador com Soy-Red" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-bf296aeb5d14.svg" alt="Stack: Python · JavaScript HTML/CSS · SQLite" width="27%" align="top" /></picture><br />
+<picture><img src="assets/project-grid-gold/cell-bc15b38ed501.svg" alt="Projeto: VialSYS" width="20%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-0069a3da344d.svg" alt="O que faz: Consulta de infrações por matrícula e verificação de radares" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-3d29092ffddc.svg" alt="Meu papel: Autor" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-13a709ae4ea5.svg" alt="Stack: Python · JavaScript HTML/CSS Next.js · React" width="27%" align="top" /></picture><br />
+<picture><img src="assets/project-grid-gold/cell-251811eb3448.svg" alt="Projeto: IaCar" width="20%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-ca6774e9f46a.svg" alt="O que faz: Diagnóstico da injeção eletrónica a partir do telemóvel" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-4de0208f4581.svg" alt="Meu papel: Autor" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-f645b5e1eb44.svg" alt="Stack: Dart · Flutter Kotlin C++ (referência)" width="27%" align="top" /></picture><br />
+<picture><img src="assets/project-grid-gold/cell-c1055e3fb485.svg" alt="Projeto: Crónicas de los Cuatro Reinos" width="20%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-ec8d5bf09321.svg" alt="O que faz: Jogo de estratégia assimétrica de fantasia, desenvolvido como hobby" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-0f2c15393563.svg" alt="Meu papel: Autor" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-c2801d12564b.svg" alt="Stack: Dart · Flutter" width="27%" align="top" /></picture>
+</p>
+<!-- GOLD-GRID:END -->
 
 <!-- WEBSITE:START -->
 <h3 align="center"><a name="website"></a><picture><img src="assets/website-pt.png" alt="Página web" width="145" align="absmiddle" /></picture></h3>
@@ -124,8 +92,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn · Joaquín Benítez"><img src="assets/social/linkedin-dorado.svg" alt="LinkedIn" width="48" height="48" /></a>&nbsp;&nbsp;
-  <a href="mailto:Joaquin.benitez91@outlook.com" title="Email · Joaquín Benítez"><img src="assets/social/email-dorado.svg" alt="Email" width="48" height="48" /></a>
+  <a href="https://www.linkedin.com/in/joaquinn-benitez/" title="LinkedIn · Joaquín Benítez"><img src="assets/social/linkedin-blanco.svg" alt="LinkedIn" width="48" height="48" /></a>&nbsp;&nbsp;
+  <a href="mailto:Joaquin.benitez91@outlook.com" title="Email · Joaquín Benítez"><img src="assets/social/email-blanco.svg" alt="Email" width="48" height="48" /></a>
 </p>
 
 <p>
