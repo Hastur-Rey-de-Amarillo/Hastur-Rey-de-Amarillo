@@ -81,7 +81,7 @@
 </p>
 
 <p align="center">
-  <a href="https://workraken.com" title="Die Website von WorKraken besuchen"><img src="https://raw.githubusercontent.com/Workraken/WorKraken/main/assets/WorKraken-logo.png" width="360" alt="Die Website von WorKraken besuchen" /></a>
+  <a href="https://workraken.com" title="Die Website von WorKraken besuchen"><img src="assets/workraken-dorado.svg" width="360" alt="Die Website von WorKraken besuchen" /></a>
 </p>
 <!-- WEBSITE:END -->
 
