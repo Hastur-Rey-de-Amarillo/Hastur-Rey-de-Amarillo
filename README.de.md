@@ -23,24 +23,87 @@
 </p>
 
 <p>
-  <a href="https://github.com/Workraken"><img src="assets/introduction-de.svg" alt="Softwareentwickler und CTO bei WorKraken. Dort entwickeln wir Werkzeuge für Verwaltung, Kommunikation und die digitale Präsenz kleiner Unternehmen. Außerdem entwickle ich Lösungen für konkrete Probleme: von der Abfrage von Verkehrsverstößen bis zur Diagnose elektronischer Einspritzsysteme per Smartphone." width="840" height="104" /></a>
+  <img src="assets/introduction-de.svg" alt="Softwareentwickler und CTO bei WorKraken. Dort entwickeln wir Werkzeuge für Verwaltung, Kommunikation und die digitale Präsenz kleiner Unternehmen. Außerdem entwickle ich Lösungen für konkrete Probleme: von der Abfrage von Verkehrsverstößen bis zur Diagnose elektronischer Einspritzsysteme per Smartphone." width="840" height="104" />
 </p>
 
 <p>
-  <img src="assets/carcosa-de.svg" alt="In meiner Freizeit entwickle ich ein Strategiespiel mit Flutter und spaziere durch Carcosa." width="709" height="26" align="absmiddle" /> <img src="assets/emoji-tentaculo-estatico.png" alt="Gelber Tentakel" width="20" height="20" align="absmiddle" />
+  <img src="assets/carcosa-de.svg" alt="In meiner Freizeit entwickle ich ein Strategiespiel mit Flutter und spaziere durch Carcosa." width="709" height="26" align="absmiddle" />
 </p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
+</p>
 
-<h3 align="center"><a name="projects"></a><img src="assets/projects-de.png" alt="Projekte" width="124" height="38" align="absmiddle" />&nbsp; <img src="assets/cohete-amarillo-adjunto.png" alt="Gelbe Rakete" width="27" height="27" align="absmiddle" /></h3>
+<p align="center">
+  <img src="assets/technologies/python.svg" alt="Python" title="Python" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/dart.svg" alt="Dart" title="Dart" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/flutter.svg" alt="Flutter" title="Flutter" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/html5.svg" alt="HTML5" title="HTML5" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/css.svg" alt="CSS" title="CSS" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/php.svg" alt="PHP" title="PHP" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/git.svg" alt="Git" title="Git" width="48" height="48" />
+</p>
+
+<p align="center">
+  <img src="assets/technologies/react.svg" alt="React" title="React" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/nextdotjs.svg" alt="Next.js" title="Next.js" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/firebase.svg" alt="Firebase / Firestore" title="Firebase / Firestore" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/sqlite.svg" alt="SQLite" title="SQLite" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/kotlin.svg" alt="Kotlin" title="Kotlin" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/jinja.svg" alt="Jinja2" title="Jinja2" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/uvicorn.svg" alt="Uvicorn" title="Uvicorn" width="48" height="48" />&nbsp;
+  <img src="assets/technologies/cplusplus.svg" alt="C++ (Referenz)" title="C++ (Referenz)" width="48" height="48" />
+</p>
+
+<h3 align="center"><a name="projects"></a><img src="assets/projects-de.png" alt="Projekte" width="124" height="38" align="absmiddle" /></h3>
 
 <p>
   <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />
 </p>
 
-<p>
-  <img src="assets/projects-stack-de.svg" alt="Projekte: WorKraken · Verwaltung, Kommunikation und digitale Präsenz für kleine Unternehmen · CTO · Python · Jinja2 · Uvicorn; JavaScript · HTML/CSS; Dart · Flutter; Firebase / Firestore. PostWik · In Entwicklung, Veröffentlichung in Vorbereitung · Mitwirkender mit Soy-Red · Python · JavaScript; HTML/CSS · SQLite. VialSYS · Abfrage von Verkehrsverstößen per Kennzeichen und Prüfung von Geschwindigkeitsmessgeräten · Entwickler · Python · JavaScript; HTML/CSS; Next.js · React. IaCar · Diagnose elektronischer Einspritzsysteme per Smartphone · Entwickler · Dart · Flutter; Kotlin; C++ (Referenz). Crónicas de los Cuatro Reinos · Asymmetrisches Fantasy-Strategiespiel, als Hobby entwickelt · Entwickler · Dart · Flutter." width="960" />
-</p>
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center"><img src="assets/table-headers/de-0.svg" alt="Projekt" width="85" height="30" /></th>
+      <th align="center"><img src="assets/table-headers/de-1.svg" alt="Was es macht" width="100" height="27" /></th>
+      <th align="center"><img src="assets/table-headers/de-2.svg" alt="Meine Rolle" width="129" height="27" /></th>
+      <th align="center"><img src="assets/table-headers/de-3.svg" alt="Stack" width="68" height="27" /></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong><a href="https://github.com/Workraken">WorKraken</a></strong></td>
+      <td align="center">Verwaltung, Kommunikation und digitale Präsenz für kleine Unternehmen</td>
+      <td align="center">CTO</td>
+      <td align="center">Python · Jinja2 · Uvicorn<br />JavaScript · HTML/CSS<br />Dart · Flutter<br />Firebase / Firestore</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>PostWik</strong></td>
+      <td align="center">In Entwicklung, Veröffentlichung in Vorbereitung</td>
+      <td align="center">Mitwirkender mit Soy-Red</td>
+      <td align="center">Python · JavaScript<br />HTML/CSS · SQLite</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>VialSYS</strong></td>
+      <td align="center">Abfrage von Verkehrsverstößen per Kennzeichen und Prüfung von Geschwindigkeitsmessgeräten</td>
+      <td align="center">Entwickler</td>
+      <td align="center">Python · JavaScript<br />HTML/CSS<br />Next.js · React</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>IaCar</strong></td>
+      <td align="center">Diagnose elektronischer Einspritzsysteme per Smartphone</td>
+      <td align="center">Entwickler</td>
+      <td align="center">Dart · Flutter<br />Kotlin<br />C++ (Referenz)</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Crónicas de los Cuatro Reinos</strong></td>
+      <td align="center">Asymmetrisches Fantasy-Strategiespiel, als Hobby entwickelt</td>
+      <td align="center">Entwickler</td>
+      <td align="center">Dart · Flutter</td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- WEBSITE:START -->
 <h3 align="center"><a name="website"></a><img src="assets/website-de.png" alt="Webseite" width="120" height="38" align="absmiddle" /></h3>
@@ -54,7 +117,7 @@
 </p>
 <!-- WEBSITE:END -->
 
-<h3 align="center"><a name="contact"></a><img src="assets/contact-de.png" alt="Kontakt" width="117" height="38" align="absmiddle" />&nbsp; <img src="assets/emoji-buzon.png" alt="Gelber Briefkasten" width="27" height="22" align="absmiddle" /></h3>
+<h3 align="center"><a name="contact"></a><img src="assets/contact-de.png" alt="Kontakt" width="117" height="38" align="absmiddle" /></h3>
 
 <p>
   <img src="assets/linea-dorada.svg" alt="" width="960" height="2" />

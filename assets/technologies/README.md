@@ -1,0 +1,1 @@
+Technology symbols adapted from [Simple Icons](https://github.com/simple-icons/simple-icons/tree/b054428646591252023b9599defb56f6e0b32f10), under the CC0 license in LICENSE-simple-icons.md. The gold circles match the profile contact icons. Uvicorn uses a text monogram (UV). C++ is identified as reference code, as in the IaCar project description.
